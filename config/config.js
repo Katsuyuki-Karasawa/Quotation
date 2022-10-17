@@ -10,7 +10,7 @@ const company =
     "branch": "本店",
     "typeOfAccount": "普通",
     "accountNumber": "618-6230",
-    "accountHolder": ""
+    "accountHolder": "カラサワ カツユキ"
   };
 
 export default company;
